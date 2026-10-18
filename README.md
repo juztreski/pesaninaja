@@ -1,6 +1,6 @@
 # 📬 Pesaninaja
 
-Aplikasi pesan/notifikasi berbasis web yang dibangun dengan **React + Vite + TypeScript**, menggunakan **Supabase** sebagai backend database dan autentikasi.
+Aplikasi pesan/notifikasi berbasis web yang dibangun dengan **React + Vite + TypeScript**, menggunakan **Supabase** sebagai backend database dan autentikasi. Aplikasi kurir lokal terintegrasi ke WA
 
 🌐 **Live Demo:** [pesaninaja.vercel.app](https://pesaninaja.vercel.app)
 
